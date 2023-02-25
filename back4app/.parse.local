@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "viniovos"
+    },
+    "viniovos": {
+      "applicationId": "wcQA3C3eKrE3liqF7a2XbfWkoCmgERD7oe3kPqKj"
+    }
+  }
+}
